@@ -16,3 +16,12 @@ In order to match teams of players of similar skill level, LoL groups players in
 * Challenger
 
 In this project, you have been given information on 10000 matches played at the Diamond Tier. Based on this data, you will try and predict the winning team of a match based on the chosen champions, each player's experience using their chosen champion, and the first 10 minutes of gameplay from the match.
+
+=======================================
+
+## Here are the steps I took to contribute to my team in order to win the Kaggle competition
+https://www.kaggle.com/competitions/ds6-league-of-legends/leaderboard?
+
+1. Created a webscraper to grab player win rates for the given week of the games played.
+2. Combined the win rates with other in game stats from the first 10 minutes of each game in order to predict the winner.
+3. Used PyCaret to compare and choose the best machine learning model for prediction.
