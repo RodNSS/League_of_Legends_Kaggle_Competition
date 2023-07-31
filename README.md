@@ -19,8 +19,8 @@ In this project, you have been given information on 10000 matches played at the 
 
 =======================================
 
-## Here are the steps I took to contribute to my team in order to win the Kaggle competition
-https://www.kaggle.com/competitions/ds6-league-of-legends/leaderboard
+## Here are the steps I took to contribute to my team in order to win the [Kaggle competition]
+[Kaggle competition]: https://www.kaggle.com/competitions/ds6-league-of-legends/leaderboard
 
 1. Created a webscraper to grab player win rates for the given week of the games played.
 2. Combined the win rates with other in game stats from the first 10 minutes of each game in order to predict the winner.
